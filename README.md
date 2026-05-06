@@ -7,3 +7,5 @@ Core Operational Modes:
   Macro Recorder: Captures and replicates complex multi-step sequences, including cursor movement and precise click timing.  
 Key Technical  
   Features:Human-Like Interaction: Integrated randomization engine that varies delay intervals to simulate natural user behavior and prevent pattern detection.
+  Macro Customization: Easy-to-use recording interface for creating sophisticated workflow scripts without coding.  
+  
